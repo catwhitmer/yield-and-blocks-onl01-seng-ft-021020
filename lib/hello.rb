@@ -1,4 +1,4 @@
-def hello_t
+def hello_t["Tim", "Tom", "Jim"]
   if block_given?
   i = 0
 
